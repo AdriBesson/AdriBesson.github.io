@@ -4,7 +4,7 @@ title: About me
 description: "Adrien Besson's website"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
-  feature: cervin.jpg
+  feature: alps.jpg
 ---
 
 I'm a PhD student in [Prof. Jean-Philippe Thiran](http://lts5www.epfl.ch/thiran.html)'s [LTS 5 laboratory](http://lts5www.epfl.ch/) at [EPFL](https://www.epfl.ch/). My PhD thesis is also supervised by [Prof. Yves Wiaux](https://pureapps2.hw.ac.uk/portal/en/persons/yves-wiaux(3992c9b1-3ec7-4015-a4cb-228f0f4c7b82).html), head of the [Biomedical and Astronomical Signal Processing Group](https://www.hw.ac.uk/schools/engineering-physical-sciences/institutes/sensors-signals-systems/basp.htm) at [Heriot-Watt University](https://www.hw.ac.uk/index.htm).
