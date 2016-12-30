@@ -77,7 +77,7 @@ analytics:
 author:
   name             : Adrien Besson
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : I'm from Grenoble, France. I'm currently a PhD student at EPFL, Lausanne, Swotzerland. I'm passionate about sports and mountains.
+  bio              : I'm from Grenoble, France. I'm currently pursuing my PhD in ultrasound imaging at LTS 5, EPFL, Lausanne, Switzerland.
   location         : Lausanne, Switzerland
   email            : Adrien dot besson at epfl dot ch
   uri              :
@@ -196,7 +196,7 @@ kramdown:
     coderay_tab_width: 4
     coderay_bold_every: 10
     coderay_css: class
-    
+
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
