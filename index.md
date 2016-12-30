@@ -1,13 +1,13 @@
 ---
-layout: home2
-title: Me in a Nutshell
-description: "Jordi Pont-Tuset's website"
+layout: home
+title: About me
+description: "Adrien Besson's website"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
-  feature: trees.jpg
+  feature: cervin.jpg
 ---
 
-I'm a post-doctoral researcher in [Prof. Luc Van Gool](http://www.vision.ee.ethz.ch/members/get_member.cgi?id=1)'s [ETHZ vision group](http://www.vision.ee.ethz.ch/index.en.html).
+I'm a PhD student in [Prof. Jean-Philippe Thiran](http://lts5www.epfl.ch/thiran.html)'s [LTS 5 laboratory](http://lts5www.epfl.ch/) at [EPFL](https://www.epfl.ch/). My PhD thesis is also supervised by [Prof. Yves Wiaux](https://pureapps2.hw.ac.uk/portal/en/persons/yves-wiaux(3992c9b1-3ec7-4015-a4cb-228f0f4c7b82).html), head of the [Biomedical and Astronomical Signal Processing Group](https://www.hw.ac.uk/schools/engineering-physical-sciences/institutes/sensors-signals-systems/basp.htm) at [Heriot-Watt University](https://www.hw.ac.uk/index.htm).
 
 <br />
 Previously, I did an 8-month internship at <a href="http://www.disneyresearch.com/research-labs/disney-research-zurich/" target="_blank">Disney Research, Zürich</a>, under the supervision of <a href="http://zurich.disneyresearch.com/~smolica/" target="_blank">Prof. Aljoscha Smolic</a>, I visited <a href="http://www.cs.berkeley.edu/~malik/" target="_blank">Prof. Jitendra Malik</a>'s vision group in <a href="http://www.berkeley.edu" target="_blank">UC Berkeley</a>, and I collaborated with the startup <a href="http://fezoo.cat" target="_blank">Fezoo</a>.

@@ -3,11 +3,7 @@ locale                   : "en"
 title                    : "Adrien Besson's site"
 description              : "Welcome to my personal website."
 url                      : //AdriBesson.github.io
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-# breadcrumbs            : false # true, false (default)
-  disqus_shortname            : adrienbesson
+disqus_shortname            : adrienbesson
 
 # Owner/author information
 owner:
@@ -26,8 +22,6 @@ owner:
 links:
   - title: Curriculum
     url: /cv/
-  - title: Publications
-    url: /publications/
   - title: Code
     url: /code/
   - title: Blog
