@@ -13,6 +13,7 @@ owner:
   location         : Lausanne, Switzerland
   email            : Adrien dot besson at epfl dot ch
   github           : AdriBesson
+  gitlab           : abesson
   google_scholar   : NmknU7kAAAAJ&hl=fr
   linkedin         : adrien-besson-828bbb47?trk=hp-identity-name
   research_gate    : Adrien_Besson
@@ -20,8 +21,8 @@ owner:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About me
-    url: /home/
+  - title: Curriculum
+    url: /cv/
   - title: Code
     url: /code/
   - title: Blog
