@@ -8,7 +8,7 @@ disqus_shortname            : adrienbesson
 # Owner/author information
 owner:
   name             : Adrien Besson
-  avatar           : /images/adrien_crop.jpg
+  avatar           : \images\adrien_crop.jpg
   bio              : I'm from Grenoble, France. I'm currently pursuing my PhD in ultrasound imaging at LTS 5, EPFL, Lausanne, Switzerland.
   location         : Lausanne, Switzerland
   email            : Adrien.besson@epfl.ch
