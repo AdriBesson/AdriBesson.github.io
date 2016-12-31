@@ -13,5 +13,5 @@ I'm a PhD student in [Prof. Jean-Philippe Thiran](http://lts5www.epfl.ch/thiran.
 Previously, I was as a R&D engineer at <a href="http://www.morpho.com/en/about-us" target="_blank">Safran Identity and Security</a> where I worked on two projects. One aimed at developing an anti-fraud module for the <a href="http://www.morpho.com/en/biometric-terminals/oem-modules/fingerprint-modules/morphosmart-cbm-series" target="_blank">MorphoSmart CBM series</a>. The second aimed at designing <a href="http://www.morpho.com/fr/atom/124" target="_blank">MorphoPass</a>, the checkpoint of the future. 
 
 <br />
-I am a mathematician, engineer, and holds two MsCs in signal and image processing from <a href="http://www.supelec.fr/" target="_blank">Supélec</a> and <a href="http://www.epfl.ch/" target="_blank">EPFL</a>.
+I am an applied mathematician and an engineer. I hold a MsC in Information Theory from <a href="http://www.epfl.ch/" target="_blank">EPFL</a>, Lausanne, Switzerland, and an engineering degree from <a href="http://www.supelec.fr/" target="_blank">Supélec</a>, Paris, France.
 
