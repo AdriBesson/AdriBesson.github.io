@@ -1,11 +1,7 @@
-# Jordi Pont-Tuset's site
+# Adrien Besson's personal website
 
-This site is based on the **[Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes)** theme, a two-column responsive Jekyll theme perfect for powering your GitHub hosted blog.
-
-
-## License
-
-Feel free to adapt this theme to your site without linking back to me or including a disclaimer, although letting me know would be nice. ;) 
+This site is based on the **[Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes)** theme, a two-column responsive Jekyll theme perfect for powering your GitHub hosted blog.<br>
+It is strongly inspired by the website of [Jordi Pont-Tuset](http://jponttuset.cat/).
 
 ## To run it locally
 ```
