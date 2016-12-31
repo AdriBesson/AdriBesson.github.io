@@ -1,9 +1,7 @@
-
-locale                   : "en"
 title                    : "Adrien Besson's site"
 description              : "Welcome to my personal website."
-url                      : //AdriBesson.github.io
-disqus_shortname            : adrienbesson
+url                      : //adribesson.github.io
+disqus_shortname         : adrienbesson
 
 # Owner/author information
 owner:
