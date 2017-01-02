@@ -60,11 +60,9 @@ figure figcaption {
     <figure>
     	<img class="res" src="{{ site.url }}/images/Research/carotid_reconstruction_classic.png" width="230" height="150"/>
     	<figcaption>Classical reconstruction</figcaption>
-
     </figure>
-    <p class="div"> Ultrasound imaging is the most-used medical imaging modality thanks to its non-invasiveness and real-time capability. In terms of acoustic wave propagation, ultrasound imaging poses an inverse problem which relates the Radio-Frequency image (desired image) and the backscattered echoes (the measurements). Current imaging methods are based on a well-known algorithm called Delay-and-sum (DAS). The major advantage of DAS is that it is fast and highly parallelizable. Its main drawback is that it is an inaccurate solution of the inverse problem which leads to low-quality images. During my PhD, I have developed an alternative of DAS. The technique formulates the measurement model of the propagation and relies on prior sparsity constraints for forming high-quality images.
+    <p> Ultrasound imaging is the most-used medical imaging modality thanks to its non-invasiveness and real-time capability. In terms of acoustic wave propagation, ultrasound imaging poses an inverse problem which relates the Radio-Frequency image (desired image) and the backscattered echoes (the measurements). Current imaging methods are based on a well-known algorithm called Delay-and-sum (DAS). The major advantage of DAS is that it is fast and highly parallelizable. Its main drawback is that it is an inaccurate solution of the inverse problem which leads to low-quality images. During my PhD, I have developed an alternative of DAS. The technique formulates the measurement model of the propagation and relies on prior sparsity constraints for forming high-quality images.
     <br> The approach is used for two main purposes:
-
     <ul>
     	<li>Image quality enhancement: The method leads to a dramatic increase of the image contrast compared to classical DAS. </li>
 
@@ -74,10 +72,18 @@ figure figcaption {
     <hr />
 
     <h2> Through-the-skull ultrasound imaging </h2>
-
+    <figure>
+    	<img class="res" src="{{ site.url }}/images/Research/Calibration_no_corr.png" width="150" height="230"/>
+    	<figcaption>Without correction</figcaption>
+    </figure>
+    <figure>
+    	<img class="res" src="{{ site.url }}/images/Research/Calibration_with_corr.png" width="150" height="230"/>
+    	<figcaption>With correction</figcaption>
+    </figure>
+    <p> Automatically compensating for skull aberrations is a severely ill-posed problem. As a solution, we propose to use an automatic pre-calibration stage, leveraging the safe injection of a low concentration of contrast microbubbles in the brain vessels. Due to their very high echogenicity, microbubbles in such a sparse distribution can be imaged individually with contrast-specific pulse sequences, resulting in correspondingly sparse images, displaying the moving microbubbles. Therefore, it is possible to use CS techniques to reconstruct the images and, simultaneously, comprehend the precise amount of aberration the skull is causing point-by-point. This process is akin to autofocusing. LTS5 proposes a novel approach to reach this goal, by combining the most recent advances in CS theory with a detailed understanding of the beam distortion as US waves propagate through a heterogeneous medium. The goal is to have a fully automatic system for US through the skull or through other heterogeneous parts of the body. In operation, after a quick and simple calibration step involving microbubble injection, the system will be fully functional, either for conventional US imaging or therapy purposes, without the need for further injection of microbubbles. </p>
     <hr />
 
-    <h2> Deep-learning and compressed-sensing </h2>
+    <h2> Deep-learning and compressed sensing </h2>
 
     <hr />
 
