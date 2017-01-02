@@ -13,7 +13,7 @@ An exhaustive of all the projects proposed in LTS 5 is available [here](http://l
 
 ### Master projects
 
-* **Characterization of ultrasound acoustic wave propagation through heterogeneous media for through-the-skull medical ultrasound imaging**<br>
+* [**Characterization of ultrasound acoustic wave propagation through heterogeneous media for through-the-skull medical ultrasound imaging**](https://drive.switch.ch/index.php/apps/files/ajax/download.php?dir=%2FStudents_projects%2FSpring%202017%2FSemester%20projects&files=Doppler_flow.pdf)<br>
 
 * **Dictionary learning for compressed sensing reconstruction in ultrasound imaging**<br>
 

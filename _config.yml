@@ -21,14 +21,14 @@ owner:
 links:
   - title: Curriculum
     url: /cv/
+  - title: Research
+    url: /research/  
   - title: Publications
     url: /publications/
   - title: Code
     url: /code/
   - title: For students
     url: /studentsprojects/
-  - title: Blog
-    url: /blog/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Zurich
