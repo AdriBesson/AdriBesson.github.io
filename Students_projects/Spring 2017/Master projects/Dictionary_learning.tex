@@ -1,0 +1,42 @@
+\documentclass{article}
+
+%%% IMPORT USEFUL PACKAGES
+%% Layout packages
+\usepackage{geometry}
+
+%%% SET THE LAYOUT OF THE PAGE
+%% Adjust the margin
+\geometry{a4paper}
+\setlength{\voffset}{-0.75in}
+
+%% Remove the page numbering
+\pagestyle{empty}
+
+%%% USEFUL COMMANDS
+\newcommand\ie{\textit{i.e. }}
+\newcommand\skipline{\vspace{\baselineskip}}
+
+\begin{document}
+\textbf{Dictionary learning for compressed sensing reconstruction in ultrasound imaging}
+
+\skipline
+\par Compressed sensing~(CS) introduces a signal acquisition framework that goes beyond the traditional Nyquist sampling paradigm. Under strict conditions on the measurement process and structural assumptions on signals under scrutiny, CS demonstrates that signals can be acquired using a small number of linear measurements and then recovered by solving a non-linear optimization problem.
+\par In order to achieve a perfect recovery, CS relies on the compressibility of the signal under scrutiny in a given model. The model can be an orthonormal basis~(Fourier, Wavelet), a frame~(a concatenation of bases) or an overcomplete dictionary which is learned on the data. 
+\par In LTS5, we are using the CS framework in the context of ultrasound (US) imaging. We have developed a framework which is able to recover high quality ultrasound images with 3 to 5 times less data than classical approaches. To do so, we exploit the compressibility of the ultrasound images under a wavelet model. 
+\par Recently, it has been proved that overcomplete dictionaries may lead to better reconstruction of US images than any general model. Indeed, since dictionaries are designed from the data, they are more specific, thus efficient, than general models.
+
+\skipline
+\textbf{Objectives:} In the project, the student will explore dictionary learning methods for compressed sensing in ultrasound imaging. The student will have to:
+\begin{itemize}
+	\item Familiarize with the dictionary learning algorithms (K-SVD), the compressed sensing framework, the LTS5 compressed beamforming algorithm.
+	\item Implement and test a dictionary learning algorithm for ultrasound images.
+	\item Include the dictionary in the current LTS5 framework.
+	\item Compare the results with the current method.
+\end{itemize}
+
+\textbf{Requirements:} Strong knowledge of signal processing, image processing, convex optimization is a plus. Skills in MATLAB or Python.
+
+\textbf{Supervisor:} Prof. Jean-Philippe Thiran
+
+\textbf{Assistants:} A. Besson (adrien.besson@epfl.ch) and D. Perdios (dimitris.perdios@epfl.ch)
+\end{document}

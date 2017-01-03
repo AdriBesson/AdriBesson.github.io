@@ -1,0 +1,39 @@
+\documentclass{article}
+
+%% Layout packages
+\usepackage{geometry}
+
+%% Adjust the margin
+\geometry{a4paper}
+\setlength{\voffset}{-0.75in}
+
+%% Remove the page numbering
+\pagestyle{empty}
+
+\begin{document}
+\textbf{Characterization of ultrasound acoustic wave propagation through heterogeneous media for through-the-skull medical ultrasound imaging}
+
+\vspace{\baselineskip} 
+\par Ultrasound~(US) imaging is a diagnostic technique among the most commonly used in medical practice, due to its simplicity and non-invasiveness when compared to some of the major alternatives, like X-Ray, Computed Tomography~(CT) or Magnetic Resonance Imaging~(MRI). However, when propagating through heterogeneous media, such as the skull, US waves suffer substantial degradation due to aberrations caused by attenuation, refraction and scattering. These aberrations cause severe degradations in beam focusing, resulting in poor-quality imaging of the brain.
+
+\par The US image reconstruction process can be expressed as an inverse problem such that a linear operator, recalled as the forward operator, relates the image under scrutiny (\textit{i.e}. tissue reflectivity to an excitation) to the measured signal. The image can then be reconstructed by solving the inverse problem. In the case of a homogeneous medium, the forward operator, which is directly related to the acoustic wave propagation, can be computed analytically. This is not the case in a heterogeneous medium in which the acoustic wave propagation is far too complex. However, techniques have been developed to measure the forward operator rather than computing it.
+
+\vspace{\baselineskip} 
+The goal of this project is to design a framework capable of generating multiple skull parts (i.e. heterogeneous layers) and measuring, by means of numerical simulations using the k-Wave toolbox, the corresponding forward operators in order to analyze them and eventually reconstruct the image.
+
+\vspace{\baselineskip}  
+\textbf{Objectives:}
+\begin{itemize}
+	\item Familiarize with k-Wave (http://www.k-wave.org/), an open source software for time-domain simulation of acoustic waves.
+	\item Set-up a tool capable of generating multiple skull part meshes (from CT scans or models) to run simulations with k-Wave.
+	\item Set-up an efficient management of the simulated forward operator data set.
+	\item Analyze the simulated forward operators resulting from through-the-skull propagation (eigenvalue distribution, coherence, structure, ...) and compare with the homogeneous case.
+	\item Apply novel regularization techniques to solve the ill-posed inverse problem of through-the-skull US imaging.
+\end{itemize}
+
+\textbf{Requirements:} Knowledges in wave propagation and numerical simulations. Skills in Matlab, Python (optional), C++ (optional).
+
+\textbf{Supervisor:} Prof. Jean-Philippe Thiran
+
+\textbf{Assistants:} D. Perdios (dimitris.perdios@epfl.ch) and A. Besson (adrien.besson@epfl.ch)
+\end{document}

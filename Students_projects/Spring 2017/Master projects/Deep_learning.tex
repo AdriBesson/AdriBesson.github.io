@@ -1,0 +1,41 @@
+\documentclass{article}
+
+%%% IMPORT USEFUL PACKAGES
+%% Layout packages
+\usepackage{geometry}
+
+%%% SET THE LAYOUT OF THE PAGE
+%% Adjust the margin
+\geometry{a4paper}
+\setlength{\voffset}{-0.75in}
+
+%% Remove the page numbering
+\pagestyle{empty}
+
+%%% USEFUL COMMANDS
+\newcommand\ie{\textit{i.e. }}
+\newcommand\skipline{\vspace{\baselineskip}}
+
+\begin{document}
+\textbf{Deep learning for enhanced ultrasound image reconstruction}
+
+\skipline
+\par Compressed sensing~(CS) introduces a signal acquisition framework that goes beyond the traditional Nyquist sampling paradigm. Under strict conditions on the measurement process and structural assumptions on signals under scrutiny, CS demonstrates that signals can be acquired using a small number of linear measurements and then recovered by solving a non-linear optimization problem. Many algorithms have been developed to solve such a problem: ADMM, LASSO, primal-dual. All these algorithms are iterative and involve thresholding operations which depend on one or several parameters that should be optimized to lead to the best reconstruction.
+\par Recently deep neural networks (DNN) have emerged as an alternative to the classical algorithms leading to very promising results. DNN have been used for different purposes. They can model the algorithms themselves (LISTA, LAMP) leading to a network where each layer represents 1 iteration of the algorithm. DNN can also be used as a denoiser on the initial low quality image leading to very fast reconstructions.
+\par In LTS5, we are using the CS framework in the context of ultrasound (US) imaging. We have developed a compressed beamforming algorithm which is able to recover high quality images from less than 30\% of the data required by classical methods. However, the proposed framework suffers from several drawbacks. First, the reconstruction time (between several seconds and several hours) prevents its use on real time application. In addition, the algorithms depend on hyperparameters which have to be manually tuned. 
+
+\skipline
+\textbf{Objectives:} During the project, the student will explore deep learning methods as a way to overcome the drawbacks of the current methods. The student will have to:
+\begin{itemize}
+	\item Familiarize with deep learning approaches for solving inverse problem.
+	\item Familiarize with compressed sensing and compressed beamforming.
+	\item Choose a deep learning method which can be applied to the problem of compressed beamforming.
+	\item Test the approach and compare with the current method .
+\end{itemize}
+
+\textbf{Requirements:} Strong knowledge of signal processing, machine learning, convex optimization is a plus. Skills in MATLAB, Python (Tensorflow) 
+
+\textbf{Supervisor:} Prof. Jean-Philippe Thiran
+
+\textbf{Assistants:} A. Besson (adrien.besson@epfl.ch) and D. Perdios (dimitris.perdios@epfl.ch)
+\end{document}
