@@ -7,5 +7,5 @@ modified: 8-7-2014
 comments: false
 ---
 
-You can also download my [CV](https://github.com/AdriBesson/My_CV/blob/master/Besson_CV.pdf) in pdf.
+You can also download my [CV](https://github.com/AdriBesson/AdriBesson.github.io/CV/Besson_CV.pdf) in pdf.
 
