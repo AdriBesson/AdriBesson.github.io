@@ -13,12 +13,12 @@ An exhaustive of all the projects proposed in LTS 5 is available [here](http://l
 
 ### Master projects
 
-* [**Characterization of ultrasound acoustic wave propagation through heterogeneous media for through-the-skull medical ultrasound imaging**](https://drive.switch.ch/index.php/apps/files/ajax/download.php?dir=%2FStudents_projects%2FSpring%202017%2FMaster%20projects&files=Transcranial.pdf)<br>
+* [**Characterization of ultrasound acoustic wave propagation through heterogeneous media for through-the-skull medical ultrasound imaging**](https://adribesson.github.io/Students_projects/Spring 2017/Master projects/Transcranial.pdf)<br>
 
-* [**Dictionary learning for compressed sensing reconstruction in ultrasound imaging**](https://drive.switch.ch/index.php/apps/files/ajax/download.php?dir=%2FStudents_projects%2FSpring%202017%2FMaster%20projects&files=Dictionary_learning.pdf)<br>
+* [**Dictionary learning for compressed sensing reconstruction in ultrasound imaging**](https://adribesson.github.io/Students_projects/Spring 2017/Master projects/Dictionary_learning.pdf)<br>
 
-* [**Deep learning for enhanced ultrasound image reconstruction**](https://drive.switch.ch/index.php/apps/files/ajax/download.php?dir=%2FStudents_projects%2FSpring%202017%2FMaster%20projects&files=Deep_learning.pdf)<br>
+* [**Deep learning for enhanced ultrasound image reconstruction**](https://adribesson.github.io/Students_projects/Spring 2017/Master projects/Deep_learning.pdf)<br>
 
 ### Semester projects
 
-* [**Extension of the compressed sensing based medical ultrasound imaging demonstrator to doppler flow imaging**](https://drive.switch.ch/index.php/apps/files/ajax/download.php?dir=%2FStudents_projects%2FSpring%202017%2FSemester%20projects&files=Doppler_flow.pdf)<br>
+* [**Extension of the compressed sensing based medical ultrasound imaging demonstrator to doppler flow imaging**](https://adribesson.github.io/Students_projects/Spring 2017/Semester projects/Doppler_flow.pdf)<br>
