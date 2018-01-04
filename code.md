@@ -8,7 +8,7 @@ comments: false
 ---
 
 
-I do my best to make my research reproducible and you can find code associated with my publications on the publication page. Here are some pieces of code related to my
+I do my best to make my research reproducible and you can find code associated with my publications on the publication page. Here are pieces of code related to some other projects/courses. Feel free to visit my [Github](https://github.com/AdriBesson) to have a more exhaustive list!
 
 ### Courses
 
