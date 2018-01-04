@@ -1,28 +1,23 @@
 ---
 layout: page
 permalink: /code/
-title: Some Code related to my publications
+title: Some Code related to my work
 tags: [code]
 modified: 12-31-2016
 comments: false
 ---
 
 
-I do my best to make my research reproducible. Here are some codes related to my publications. 
+I do my best to make my research reproducible and you can find code associated with my publications on the publication page. Here are some pieces of code related to my
 
-### Reproducible Research
+### Courses
 
-* [**A sparse reconstruction framework for Fourier-based plane wave imaging**](https://gitlab.com/abesson/Sparse_regularization_Fourier)<br>
-MATLAB code used to generate the results of the paper: [A sparse reconstruction framework for Fourier-based plane wave imaging](http://ieeexplore.ieee.org/document/7582552/)
+* [**Statistical Machine learning - EPFL MATH-412**](https://github.com/AdriBesson/Statistical_learning_course). Python notebooks for the EPFL course [Statistical machine learning](http://edu.epfl.ch/coursebook/fr/statistical-learning-MATH-412). You can find code related to exercises for weeks 1, 4 and 5 as well as for the project. I implemented several interesting statistical learning tools (subset selection, linear models) and extensively used sklearn.
 
-* **A compressed-sensing approach for ultrasound imaging**<br>
-Code used to reproduce the results of the abstract submitted to [SPARS 2017](http://spars2017.lx.it.pt/). <i>Coming soon</i>
+ 
+
 
 ### Latex
 
 * [**Student-report's template**](https://gitlab.com/latex-templates/LTS5-student-project-report)<br>
 Template for semester and master projects reports.
- 
-
-
-
