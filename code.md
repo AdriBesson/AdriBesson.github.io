@@ -22,5 +22,5 @@ I do my best to make my research reproducible and you can find code associated w
 * [**Student-report's template**](https://gitlab.com/latex-templates/LTS5-student-project-report)<br>
 Template for semester and master projects reports.
 
-* [** Example poster **](https://github.com/AdriBesson/spars2017-poster)<br>
+* [**Example poster**](https://github.com/AdriBesson/spars2017-poster)<br>
 Example poster I use in scientific conferences. Feel free to use it!
